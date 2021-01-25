@@ -1,0 +1,64 @@
+ dt=           0
+ idl_rsns=   5.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ dt=           0
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ idl_rsns=   5.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=           0
+ dt=           0
+ idl_rsns=   5.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ idl_rsns=   5.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=         900
+ idl_rsns=   6.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=         900
+ idl_rsns=   6.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=         900
+ idl_rsns=   6.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ dt=         900
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ idl_rsns=   6.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        1800
+ idl_rsns=   7.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        1800
+ idl_rsns=   7.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        1800
+ dt=        1800
+ idl_rsns=   7.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ idl_rsns=   7.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        2700
+ idl_rsns=   8.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        2700
+ idl_rsns=   8.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ dt=        2700
+ idl_rsns=   8.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ dt=        2700
+ max(dataPtr_rsns)= -1.797693134862316E+308
+ idl_rsns=   8.00000000000000     
+ dim(dataPtr_rsns):  -858993460  -858993460
+ max(dataPtr_rsns)= -1.797693134862316E+308
